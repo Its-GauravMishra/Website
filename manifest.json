@@ -1,0 +1,17 @@
+{
+  "name": "RR Industries - Earthing Solutions",
+  "short_name": "RR Industries",
+  "description": "India's No.1 Unique Earthing Company - Manufacturers of Earthing Electrodes & Earthing Compounds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B00020",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
